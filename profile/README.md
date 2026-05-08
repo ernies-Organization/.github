@@ -7,4 +7,4 @@ This organization is just so I can access my projects from school and home.
 
 ## what you will find here
 
-I will post any projects I want to make (british joke incoming) I will publish random stuff at unpredictable times. it is like british weather; boiling one hour, freezing the next, one day a minecraft plugin, next a website
+I will post any projects I want to make I will publish random stuff at unpredictable times.(British joke incoming) it is like british weather; boiling one hour, freezing the next, one day a minecraft plugin, next a website
