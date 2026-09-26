@@ -37,7 +37,7 @@ Educational resources are to be used responsibly, ethically, and with integrity.
 
 ## Licence
 
-Unless otherwise stated, all content across my repositories (including those under `@erncat13`, `@26CatnachEr`, and my shared organization `@ernies-Organization`) is licensed under the [MIT Licence](LICENSE). 
+Unless otherwise stated, all content across my repositories (including those under [`@erncat13`](https://github.com/erncat13), [`@26CatnachEr`](https://github.com/26CatnachEr), and my shared organization [`@ernies-Organization`](https://github.com/ernies-Organization)) is licensed under the [MIT Licence](LICENSE). 
 
 *(Note: These handles and organizations are all used interchangeably for my projects).*
 
