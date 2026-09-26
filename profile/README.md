@@ -15,7 +15,7 @@ This organization is just so I can access my projects from school and home.
 ### my accounts:
 
 * [![Personal Account](https://img.shields.io/badge/Personal%20Account-blue?style=for-the-badge)](https://github.com/erncat13)
-* -I am currently moving schools and changing accounts. I will update this when I get my new school account-
+* [![Personal Account](https://img.shields.io/badge/School%20Account-blue?style=for-the-badge)](https://github.com/26CatnachEr)
 
 ## Cool Fact!
 
@@ -37,9 +37,14 @@ Educational resources are to be used responsibly, ethically, and with integrity.
 
 ## Licence
 
-Unless otherwise stated, all content in all my repositories is licensed under the [MIT Licence](https://github.com/ernies-Organization/.github/blob/main/LICENSE).
+## Licence
+
+Unless otherwise stated, all content across my repositories (including those under `@erncat13`, `@26CatnachEr`, and my shared organization `@ernies-Organization`) is licensed under the [MIT Licence](LICENSE). 
+
+*(Note: These handles and organizations are all used interchangeably for my projects).*
 
 **© Ernie Catnach 2026**
+
 
 ---
 
