@@ -15,7 +15,7 @@ This organization is just so I can access my projects from school and home.
 ### my accounts:
 
 * [![Personal Account](https://img.shields.io/badge/Personal%20Account-blue?style=for-the-badge)](https://github.com/erncat13)
-* [![Personal Account](https://img.shields.io/badge/School%20Account-blue?style=for-the-badge)](https://github.com/26CatnachEr)
+* [![School Account](https://img.shields.io/badge/School%20Account-blue?style=for-the-badge)](https://github.com/26CatnachEr)
 
 ## Cool Fact!
 
