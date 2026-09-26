@@ -8,7 +8,7 @@ This organization is just so I can access my projects from school and home.
 
 ### my accounts:
 * [![Personal Account](https://img.shields.io/badge/Personal%20Account-blue?style=for-the-badge)](https://github.com/erncat13)
-* -I am curently moving schools and changing accounts. I will update this when I get my new school account-
+* [![School Account](https://img.shields.io/badge/School%20Account-blue?style=for-the-badge)](https://github.com/26CatnachEr)
 
 ## Cool Fact!
 I am 99% sure that I am the only Ernie Catnach in the world.
